@@ -1,0 +1,1 @@
+export { productStore } from '@/store/product/productStore'
